@@ -1,0 +1,1 @@
+{"_token":"j2NfKCnDPIcWoWWNLpWpPxpKcrFzm9HCnzCF4QEd","USD":"1.6795388","COIN":"20","type":"XRP","order_type":"exchange market"}

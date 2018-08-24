@@ -1,0 +1,1 @@
+{"status":"error","reason":{"__all__":["Minimum order size is 5.0 USD."]}}

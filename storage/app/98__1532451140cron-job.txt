@@ -1,0 +1,1 @@
+{"_token":"sE94oo0nzdZPKrsCVqaKqWpGhdPSiwgYYluc2uFG","USD":"1.66251","COIN":"20","type":"XRP","order_type":"market"}

@@ -1,0 +1,1 @@
+{"status":"error","reason":{"__all__":["You have only 29.15954486 XRP available. Check your account balance for details."]}}
